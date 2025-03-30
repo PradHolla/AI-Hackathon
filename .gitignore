@@ -1,1 +1,4 @@
 build/
+*.toml
+credentials.json
+token.json
